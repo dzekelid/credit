@@ -15,8 +15,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: "8074"
 tags: Credit
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-26"
+modified: "2018-08-26"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/hsbc/apis.md
 specificationVersion: "0.14"
 apis:

@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28430-api-
 x-kinRank: "7"
 x-alexaRank: "635223"
 tags: Credit
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-26"
+modified: "2018-08-26"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/isendpro-telecom/apis.md
 specificationVersion: "0.14"
 apis: []

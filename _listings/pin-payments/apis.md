@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2
 x-kinRank: "9"
 x-alexaRank: "0"
 tags: Credit
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-26"
+modified: "2018-08-26"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/pin-payments/apis.md
 specificationVersion: "0.14"
 apis: []
