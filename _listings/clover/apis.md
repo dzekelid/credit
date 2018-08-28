@@ -12,11 +12,99 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "23096"
 tags: Credit
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/clover/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: ' - Get a list of credit refunds'
+  x-api-slug: v3merchantsmidcredit-refunds-get
+  description: Get a list of credit refunds.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png
+  humanURL: https://www.clover.com
+  baseURL: https:///merchants/https://api.clover.com
+  tags: SaaS, Technology, Mobile, internet, Point of Sale, Pos, Service API, Relative
+    Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/clover/v3merchantsmidcredit-refunds-get-openapi.md
+- name: ' - Get a credit refund'
+  x-api-slug: v3merchantsmidcredit-refundscrid-get
+  description: Get a credit refund.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png
+  humanURL: https://www.clover.com
+  baseURL: https:///merchants/https://api.clover.com
+  tags: SaaS, Technology, Mobile, internet, Point of Sale, Pos, Service API, Relative
+    Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/clover/v3merchantsmidcredit-refundscrid-get-openapi.md
+- name: ' - Get a list of credits'
+  x-api-slug: v3merchantsmidcredits-get
+  description: Get a list of credits.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png
+  humanURL: https://www.clover.com
+  baseURL: https:///merchants/https://api.clover.com
+  tags: SaaS, Technology, Mobile, internet, Point of Sale, Pos, Service API, Relative
+    Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/clover/v3merchantsmidcredits-get-openapi.md
+- name: ' - Get a single credit'
+  x-api-slug: v3merchantsmidcreditscid-get
+  description: Get a single credit.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png
+  humanURL: https://www.clover.com
+  baseURL: https:///merchants/https://api.clover.com
+  tags: SaaS, Technology, Mobile, internet, Point of Sale, Pos, Service API, Relative
+    Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/clover/v3merchantsmidcreditscid-get-openapi.md
+- name: ' - Get a list of credits'
+  x-api-slug: v3merchantsmidcredits-get
+  description: Get a list of credits.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png
+  humanURL: https://www.clover.com
+  baseURL: https:///merchants/https://api.clover.com
+  tags: SaaS, Technology, Mobile, internet, Point of Sale, Pos, Service API, Relative
+    Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/clover/v3merchantsmidcredits-get-openapi.md
+- name: ' - Get a single credit'
+  x-api-slug: v3merchantsmidcreditscid-get
+  description: Get a single credit.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png
+  humanURL: https://www.clover.com
+  baseURL: https:///merchants/https://api.clover.com
+  tags: SaaS, Technology, Mobile, internet, Point of Sale, Pos, Service API, Relative
+    Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/clover/v3merchantsmidcreditscid-get-openapi.md
+- name: ' - Get a single credit'
+  x-api-slug: v3merchantsmidcreditscid-get
+  description: Get a single credit.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png
+  humanURL: https://www.clover.com
+  baseURL: https:///merchants/https://api.clover.com
+  tags: SaaS, Technology, Mobile, internet, Point of Sale, Pos, Service API, Relative
+    Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/clover/v3merchantsmidcreditscid-get-openapi.md
+- name: ' - Get a list of credits'
+  x-api-slug: v3merchantsmidcredits-get
+  description: Get a list of credits.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png
+  humanURL: https://www.clover.com
+  baseURL: https:///merchants/https://api.clover.com
+  tags: SaaS, Technology, Mobile, internet, Point of Sale, Pos, Service API, Relative
+    Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/clover/v3merchantsmidcredits-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://cloudflare.api.gallery.streamdata.io

@@ -7,11 +7,21 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26564-lykk
 x-kinRank: "8"
 x-alexaRank: "152167"
 tags: Credit
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/lykke/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Wallet_Api - Add API Formatcreditvoucherscontent
+  x-api-slug: apiformatcreditvoucherscontent-post
+  description: Add api formatcreditvoucherscontent.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26564-lykke.jpg
+  humanURL: https://lykke.com
+  baseURL: https:////
+  tags: Technology, Marketplace, Blockchain, API Provider, Profiles, General Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/lykke/apiformatcreditvoucherscontent-post-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://lyft.api.gallery.streamdata.io

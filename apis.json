@@ -1,0 +1,622 @@
+{
+	"name": "Streadata.io API Gallery - Credit",
+	"description": "This is a repository of credit APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/credit.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://credit.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "3scale",
+			"x-api-slug": "3scale",
+			"description": "3scales API Management platform gives you the tools you need to take control of your API. Trusted by more customers than any other vendor.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg",
+			"humanURL": "http://3scale.net",
+			"baseURL": "https://su1.3scale.net//",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/3scale/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Urban Airship",
+			"x-api-slug": "urban-airship",
+			"description": "A market-leading mobile app engagement, mobile analytics, mobile data integration and mobile wallet marketing solution.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/75-urban-airship.jpg",
+			"humanURL": "http://urbanairship.com/",
+			"baseURL": "https://go.urbanairship.com//api/",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/urban-airship/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SendGrid",
+			"x-api-slug": "sendgrid",
+			"description": "Delivering your transactional and marketing emails through the worlds largest cloud-based email delivery platform. Send with confidence.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/142-sendgrid.jpg",
+			"humanURL": "http://sendgrid.com",
+			"baseURL": "https:///",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/sendgrid/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Xero",
+			"x-api-slug": "xero",
+			"description": "Xero is the QuickBooks alternative. Use Xero accounting software to manage invoicing, bank reconciliation, bookkeeping & more. Start a free trial today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/279-xero.jpg",
+			"humanURL": "http://www.xero.com/",
+			"baseURL": "https://api.xero.com//",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/xero/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AMEE",
+			"x-api-slug": "amee",
+			"description": "Data driven solutions to strengthen supply chain performance and risk.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/335-amee-developers.jpg",
+			"humanURL": "https://www.amee.com",
+			"baseURL": "https:///",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/amee/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Postcode Anywhere",
+			"x-api-slug": "postcode-anywhere",
+			"description": "Postcode Anywhere is a UK-based company best known for its market-leading &lsquo;what&rsquo;s your postcode&rsquo; technology, used to quickly complete your address when buying online. It was established by Guy Mucklow and Jamie Turner in 2001. By seeing the internet value as a much more efficient information delivery medium than traditional methods - which typically involved burning data onto CDs and shipping out to the customer - Postcode Anywhere has turned the market upside down.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/370_logo.png",
+			"humanURL": "http://www.postcodeanywhere.co.uk/",
+			"baseURL": "https:///",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/postcode-anywhere/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Service Objects",
+			"x-api-slug": "service-objects",
+			"description": "With our suite of data verification APIs for phone, email, address and more, you can keep your businesss database clean, accurate, and up to date.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/371-service-objects.jpg",
+			"humanURL": "http://www.serviceobjects.com/",
+			"baseURL": "https:///",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/service-objects/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pingdom",
+			"x-api-slug": "pingdom",
+			"description": "Monitor your websites availability and performance for free with Pingdom and always be the first to know when your website is down. No installation required.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg",
+			"humanURL": "http://www.pingdom.com",
+			"baseURL": "https://api.pingdom.com//",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/pingdom/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Payfirma",
+			"x-api-slug": "payfirma",
+			"description": "Payfirma is your one-stop merchant services partner for secure credit card processing. We offer one solution that lets you take payments any way your customers want to pay.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1111-payfirma.jpg",
+			"humanURL": "http://www.payfirma.com",
+			"baseURL": "https:///",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/payfirma/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PayAnywhere",
+			"x-api-slug": "payanywhere",
+			"description": "Transform your transactions with PayAnywhere. A simple and secure way to accept credit cards and manage your business. Accept mobile payments from our robust payment processing app and handheld 3-in-1 credit card reader. Use the Storefront point of sal...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1232-payanywhere.jpg",
+			"humanURL": "http://payanywhere.com",
+			"baseURL": "https:///",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/payanywhere/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PayJunction",
+			"x-api-slug": "payjunction",
+			"description": "PayJunction is a Level 1 PCI Compliant Service Provider that services thousands of businesses in every state in the United States. Since 2000, PayJunction has rapidly become a leading developer and provider of cutting edge merchant technology. PayJunction has also formed strategic alliances with leading financial institutions and technology partners to deliver the most comprehensive services in the industry.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/payjunction-logo.png",
+			"humanURL": "http://payjunction.com/",
+			"baseURL": "https://example.com//",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/payjunction/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Celery",
+			"x-api-slug": "celery",
+			"description": "Celery is a pre-order platform that brings your products to life. Use Celery for your pre-order, custom crowdfunding, and e-commerce needs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1758-celery.jpg",
+			"humanURL": "https://www.trycelery.com",
+			"baseURL": "https:///",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/celery/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CardFlight",
+			"x-api-slug": "cardflight",
+			"description": "CardFlight empowers app developers to easily take in-person (card present) payments within their own iOS and Android apps. CardFlight&rsquo;s open platform connects mobile app developers with payment processors, focusing on the 90+% of credit card payments that happen in real life. Developers use CardFlight&rsquo;s encrypted mag stripe reader and SDK/API so that they can easily and securely accept card present payments in their apps, with support for virtually any payment processor or merchant account. Our clients retain full control of their integrated app experience without dealing with the typical complexity of payments integrations.",
+			"image": "",
+			"humanURL": "https://getcardflight.com/",
+			"baseURL": "https:///",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/cardflight/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SlidePay",
+			"x-api-slug": "slidepay",
+			"description": "Payment platform APIs. Developers can easily integrate card-not-present and card-present payments into their mobile and web applications.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2175-slidepay.jpg",
+			"humanURL": "https://www.slidepay.com/",
+			"baseURL": "https:///",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/slidepay/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pin Payments",
+			"x-api-slug": "pin-payments",
+			"description": "An all-in-one developer API for accepting credit card payments online in multiple currencies. Through integrations with key e-commerce &amp; business platforms (https://pin.net.au/partners) Pin Payments also enables small businesses to start accepting payments online quickly &amp; easily.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2179_logo.png",
+			"humanURL": "https://pin.net.au/",
+			"baseURL": "https:///",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/pin-payments/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Intuit",
+			"x-api-slug": "intuit",
+			"description": "See how the power of Intuit Giants can work for you by joining the over 46 million people already using TurboTax, QuickBooks and Mint to power their financial prosperity.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9544-intuit.jpg",
+			"humanURL": "https://intuit.com",
+			"baseURL": "https://DefaultParameterValue//v3/company/DefaultParameterValue",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/intuit/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CallFire",
+			"x-api-slug": "callfire",
+			"description": "Grow your business with virtual phone numbers, IVR, voice broadcasting, mass text messaging services and power dialing. Try CallFire for FREE!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg",
+			"humanURL": "http://www.callfire.com",
+			"baseURL": "https://www.callfire.com//v2",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/callfire/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Taxamo",
+			"x-api-slug": "taxamo",
+			"description": "We make global digital VAT/GST compliance possible. #DigitalTax #DigiTax #TaxTrends",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18644-taxamo.jpg",
+			"humanURL": "https://www.taxamo.com/",
+			"baseURL": "https://api.taxamo.com//",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/taxamo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lykke",
+			"x-api-slug": "lykke",
+			"description": "Lykke is a movement to build one global marketplace that is a level playing field where everyone has access.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26564-lykke.jpg",
+			"humanURL": "https://lykke.com",
+			"baseURL": "https:////",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/lykke/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HSBC",
+			"x-api-slug": "hsbc",
+			"description": "HSBC Holdings plc is a British multinational banking and financial services holding company, tracing its origin to a hong in Hong Kong. It is the worlds seventh largest bank by total assets and the largest in Europe with total assets of US$2.374 trillion (as of December 2016). It was established in its present form in London in 1991 by The Hongkong and Shanghai Banking Corporation to act as a new group holding company. The origins of the bank lie mainly in Hong Kong and to a lesser extent in Shanghai, where branches were first opened in 1865. The HSBC name is derived from the initials of the Hongkong and Shanghai Banking Corporation. The company was first formally incorporated in 1866. The company continues to see both the United Kingdom and Hong Kong as its home markets.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HSBC-Logo.png",
+			"humanURL": "https://hsbc.com",
+			"baseURL": "https://api.hsbc.com/open-banking/v2.1/",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/hsbc/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lloyds Bank",
+			"x-api-slug": "lloyds-bank",
+			"description": "Lloyds Bank plc is a British retail and commercial bank with branches across England and Wales. It has traditionally been considered one of the Big Four clearing banks. The bank was founded in Birmingham in 1765. It expanded during the nineteenth and twentieth centuries and took over a number of smaller banking companies. In 1995 it merged with the Trustee Savings Bank and traded as Lloyds TSB Bank plc between 1999 and 2013.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lloyds_bank.png",
+			"humanURL": "https://lloydsbank.com",
+			"baseURL": "https://api.lloydsbank.com/open-banking/v2.1/",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/lloyds-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Barclays",
+			"x-api-slug": "barclays",
+			"description": "Barclays is a British multinational bank and financial services company headquartered in London. It is a universal bank with global reach, offering products and services across personal, corporate and investment banking, credit cards and wealth management. It has operations in over 40 countries and employs approximately 120,000 people. Barclays is organised into four core businesses: Personal &amp; Corporate (Personal Banking, Corporate Banking, Wealth &amp; Investment Management), Barclaycard, Investment Banking and Africa.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/barclays-logo.png",
+			"humanURL": "https://barclays.com",
+			"baseURL": "https://atlas.api.barclays/open-banking/v2.1/",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/barclays/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Royal Bank of Scotland",
+			"x-api-slug": "royal-bank-of-scotland",
+			"description": "The Royal Bank of Scotland (Scottish Gaelic: Banca R&igrave;oghail na h-Alba, Scots: Ryal Baunk o Scotland, Welsh: Banc Brenhinol yr Alban), commonly abbreviated as RBS, is one of the retail banking subsidiaries of The Royal Bank of Scotland Group plc, together with NatWest and Ulster Bank. The Royal Bank of Scotland has around 700 branches, mainly in Scotland, though there are branches in many larger towns and cities throughout England and Wales. Both the bank and its parent, The Royal Bank of Scotland Group, are completely separate from the fellow Edinburgh-based bank, the Bank of Scotland, which pre-dates The Royal Bank of Scotland by 32 years.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/royal-bank-of-scotland.png",
+			"humanURL": "https://www.rbs.com",
+			"baseURL": "https://openapi.rbs.co.uk/open-banking/v2.1/",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/royal-bank-of-scotland/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Santander Bank",
+			"x-api-slug": "santander-bank",
+			"description": "Santander Bank, N. A., formerly Sovereign Bank, is a wholly owned subsidiary of Spanish Santander Group. It is based in Boston and its principal market is the northeastern United States. It has $54.7 billion in deposits, operates about 650 retail banking offices and over 2,000 ATMs, and employs approximately 9,800 people. It offers an array of financial services and products including retail banking, mortgages, corporate banking, cash management, credit card, capital markets, trust and wealth management, and insurance.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg",
+			"humanURL": "https://www.santanderbank.com",
+			"baseURL": "https://openapi.santander.co.uk/open-banking/v2.1/",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/santander-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "NatWest",
+			"x-api-slug": "natwest",
+			"description": "National Westminster Bank, commonly known as NatWest, is a large retail and commercial bank in the United Kingdom. It was established in 1968 by the merger of National Provincial Bank (established 1833 as National Provincial Bank of England) and Westminster Bank (established 1834 as London County and Westminster Bank). Since 2000 it has been part of the Royal Bank of Scotland Group. Following ring-fencing of the Groups core domestic business, the bank is a direct subsidiary of NatWest Holdings. NatWest Markets comprises its investment banking arm.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/natwest-logo.png",
+			"humanURL": "https://personal.natwest.com/personal.html",
+			"baseURL": "https://openapi.natwest.com/open-banking/v2.1/",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/natwest/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Nationwide Building Society",
+			"x-api-slug": "nationwide-building-society",
+			"description": "Nationwide Building Society is a British mutual financial institution and the largest building society in the world with over 15 million members. It has its headquarters in Swindon, with an office in Threadneedle Street, London, and administration centres based in Bournemouth, Northampton and Dunfermline. Made up of over a hundred mergers &mdash; most notably its merger with Anglia Building Society in 1987 and Portman Building Society in 2007 &mdash; Nationwide is now the second largest provider of household savings and mortgages in the UK.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nationwide-building-society.png",
+			"humanURL": "https://www.nationwide.co.uk/",
+			"baseURL": "https://openapi.nationwide.co.uk/open-banking/v2.1/",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/nationwide-building-society/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bank of Ireland",
+			"x-api-slug": "bank-of-ireland",
+			"description": "Bank of Ireland Group plc is a public limited company incorporated in Ireland, with its registered office at 40 Mespil Road, Dublin 4 and registered number 593672. Bank of Ireland Group plc, whose shares are listed on the main markets of the Irish Stock Exchange plc and the London Stock Exchange plc , is the holding company of Bank of Ireland.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bank-of-ireland.jpg",
+			"humanURL": "https://www.bankofireland.com/",
+			"baseURL": "https://openapi.bankofireland.com/open-banking/v2.1/",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/bank-of-ireland/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bank of Scotland",
+			"x-api-slug": "bank-of-scotland",
+			"description": "The Bank of Scotland is a commercial and clearing bank based in Edinburgh, Scotland. With a history dating to the 17th century, it is the fifth-oldest surviving bank in the United Kingdom (the Bank of England having been established one year before), and is the only commercial institution created by the Parliament of Scotland to remain in existence. It was one of the first banks in Europe to print its own banknotes and it continues to print its own sterling banknotes under legal arrangements which allow Scottish banks to issue currency.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bank-of-scotland-logo.jpg",
+			"humanURL": "https://www.bankofscotland.co.uk/",
+			"baseURL": "https://api.bankofscotland.co.uk/open-banking/v2.1/",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/bank-of-scotland/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "iSendPro Telecom",
+			"x-api-slug": "isendpro-telecom",
+			"description": "Solution denvoi de SMS pro direct Oprateur. Oprateur Franais, Qualit Garantie Sans Engagement et Sans Dlai.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28430-api-i-send-pro.jpg",
+			"humanURL": "http://isendpro.com",
+			"baseURL": "https://apirest.isendpro.com//cgi-bin",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/isendpro-telecom/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Clover",
+			"x-api-slug": "clover",
+			"description": "Clover, a First Data company, builds the largest open-architecture point of sale solution aimed at small &amp; medium sized business owners. Our products are changing the consumer/merchant experience for the better, opening avenues for seamless customer-merchant interactions. There are five versions of Clover, including the Clover Station, Clover Mobile, Clover Mini, Clover Go, and Clover Flex. With Clover, First Data is aiming to create the largest open architecture operating system for commerce-enabling solutions and applications for business owners.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png",
+			"humanURL": "https://www.clover.com",
+			"baseURL": "https:///merchants/https://api.clover.com",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/clover/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Credit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Credit",
+	"include": [
+		{
+			"name": "3scale",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/3scale/apis.yaml"
+		},
+		{
+			"name": "Urban Airship",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/urban-airship/apis.yaml"
+		},
+		{
+			"name": "SendGrid",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/sendgrid/apis.yaml"
+		},
+		{
+			"name": "Xero",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/xero/apis.yaml"
+		},
+		{
+			"name": "AMEE",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/amee/apis.yaml"
+		},
+		{
+			"name": "Postcode Anywhere",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/postcode-anywhere/apis.yaml"
+		},
+		{
+			"name": "Service Objects",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/service-objects/apis.yaml"
+		},
+		{
+			"name": "Pingdom",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/pingdom/apis.yaml"
+		},
+		{
+			"name": "Payfirma",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/payfirma/apis.yaml"
+		},
+		{
+			"name": "PayAnywhere",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/payanywhere/apis.yaml"
+		},
+		{
+			"name": "PayJunction",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/payjunction/apis.yaml"
+		},
+		{
+			"name": "Celery",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/celery/apis.yaml"
+		},
+		{
+			"name": "CardFlight",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/cardflight/apis.yaml"
+		},
+		{
+			"name": "SlidePay",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/slidepay/apis.yaml"
+		},
+		{
+			"name": "Pin Payments",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/pin-payments/apis.yaml"
+		},
+		{
+			"name": "Intuit",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/intuit/apis.yaml"
+		},
+		{
+			"name": "CallFire",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/callfire/apis.yaml"
+		},
+		{
+			"name": "Taxamo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/taxamo/apis.yaml"
+		},
+		{
+			"name": "Lykke",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/lykke/apis.yaml"
+		},
+		{
+			"name": "HSBC",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/hsbc/apis.yaml"
+		},
+		{
+			"name": "Lloyds Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/lloyds-bank/apis.yaml"
+		},
+		{
+			"name": "Barclays",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/barclays/apis.yaml"
+		},
+		{
+			"name": "Royal Bank of Scotland",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/royal-bank-of-scotland/apis.yaml"
+		},
+		{
+			"name": "Santander Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/santander-bank/apis.yaml"
+		},
+		{
+			"name": "NatWest",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/natwest/apis.yaml"
+		},
+		{
+			"name": "Nationwide Building Society",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/nationwide-building-society/apis.yaml"
+		},
+		{
+			"name": "Bank of Ireland",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/bank-of-ireland/apis.yaml"
+		},
+		{
+			"name": "Bank of Scotland",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/bank-of-scotland/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "iSendPro Telecom",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/isendpro-telecom/apis.yaml"
+		},
+		{
+			"name": "Clover",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/clover/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}

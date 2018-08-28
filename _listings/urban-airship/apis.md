@@ -7,11 +7,24 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/75-urban-a
 x-kinRank: "8"
 x-alexaRank: "79571"
 tags: Credit
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/urban-airship/apis.md
 specificationVersion: "0.14"
 apis:
+- name: Urban Airship - Post User User Creds Reset
+  x-api-slug: useruser-idcredsreset-post
+  description: Changes the password of an user.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/75-urban-airship.jpg
+  humanURL: http://urbanairship.com/
+  baseURL: https://go.urbanairship.com//api/
+  tags: BaaS, Push Notifications, Stack Network, SaaS, Technology, Mobile, internet,
+    Relative Data, Service API, Locations, Locations, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/urban-airship/useruser-idcredsreset-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/urban-airship/useruser-idcredsreset-post-openapi.md
 - name: Urban Airship - Post User User Creds Reset
   x-api-slug: useruser-idcredsreset-post
   description: Changes the password of an user.

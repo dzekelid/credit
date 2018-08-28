@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2175-slide
 x-kinRank: "9"
 x-alexaRank: "0"
 tags: Credit
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/slidepay/apis.md
 specificationVersion: "0.14"
 apis: []

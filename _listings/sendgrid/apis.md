@@ -7,11 +7,27 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/142-sendgr
 x-kinRank: "9"
 x-alexaRank: "10000"
 tags: Credit
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/sendgrid/apis.md
 specificationVersion: "0.14"
 apis:
+- name: SendGrid - Get User Credits
+  x-api-slug: usercredits-get
+  description: |-
+    **This endpoint allows you to retrieve the current credit balance for your account.**
+
+    Your monthly credit allotment limits the number of emails you may send before incurring overage charges. For more information about credits and billing, please visit our [Clssroom](https://sendgrid.com/docs/Classroom/Basics/Billing/billing_info_and_faqs.html).
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/142-sendgrid.jpg
+  humanURL: http://sendgrid.com
+  baseURL: https://api.sendgrid.com//v3
+  tags: API LIfeyclessss, Imports, Stack Network, Stack, Technology, SaaS, Emails,
+    Emails, Messages, Messages, Relative Data, Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/sendgrid/usercredits-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/sendgrid/usercredits-get-openapi.md
 - name: SendGrid - Get User Credits
   x-api-slug: usercredits-get
   description: |-

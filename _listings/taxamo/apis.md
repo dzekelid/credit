@@ -7,11 +7,22 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18644-taxa
 x-kinRank: "8"
 x-alexaRank: "795977"
 tags: Credit
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/taxamo/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Taxamo - Email Credit Note
+  x-api-slug: apiv1transactionskeyinvoicerefundsrefund-note-numbersend-email-post
+  description: Email credit note.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18644-taxamo.jpg
+  humanURL: https://www.taxamo.com/
+  baseURL: https://api.taxamo.com//
+  tags: Taxes, VAT, Target, Stack Network, Taxes, Relative Data, Service API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/credit/master/_listings/taxamo/apiv1transactionskeyinvoicerefundsrefund-note-numbersend-email-post-openapi.md
 x-common:
 - type: x-website
   url: https://www.taxamo.com/
